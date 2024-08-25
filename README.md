@@ -76,8 +76,8 @@ My ability to adapt to new challenges and learn quickly has been instrumental in
 |Projects|Description|
 |--------|-----------|
 |[music-player](https://github.com/nstnhfd/music-player.git)|music player by pyqt5 and Qt designer|
-|password-generator| pyqt5 and Qt designer|
-|shamsi-calender|pyqt5 and Qt designer|
+|[password-generator](https://github.com/nstnhfd/password-generator.git)|generate password random|
+|[shamsi-calender](https://github.com/nstnhfd/shamsi-calender.git)|convert Gregorian calendar to shamsi calender|
 
 
 <!--
