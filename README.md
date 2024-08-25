@@ -53,7 +53,7 @@ My ability to adapt to new challenges and learn quickly has been instrumental in
 <a href="https://instagram.com/nstn_ghfri" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/nstn ghf" target="_blank">
+<a href="https://www.kaggle.com/nstnghf" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
