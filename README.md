@@ -71,6 +71,19 @@ My ability to adapt to new challenges and learn quickly has been instrumental in
 <br/>  
 
 
+
+#  🔭Projects That Showcase My Skills
+|Projects|Description|
+|--------|-----------|
+|music-player|music player by pyqt5 and Qt designer|
+|password-generator| pyqt5 and Qt designer|
+|shamsi-calender|pyqt5 and Qt designer|
+
+
+<!--
+**nstnhfd/nstnhfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
@@ -100,18 +113,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-#  🔭Projects That Showcase My Skills
-|Projects|Description|
-|--------|-----------|
-|music-player|music player by pyqt5 and Qt designer|
-|password-generator| pyqt5 and Qt designer|
-|shamsi-calender|pyqt5 and Qt designer|
-
-
-<!--
-**nstnhfd/nstnhfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 
