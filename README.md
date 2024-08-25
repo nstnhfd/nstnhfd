@@ -28,7 +28,7 @@ My ability to adapt to new challenges and learn quickly has been instrumental in
 
 
 
-### Frontend  
+### skills  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -75,7 +75,7 @@ My ability to adapt to new challenges and learn quickly has been instrumental in
 #  🔭Projects That Showcase My Skills
 |Projects|Description|
 |--------|-----------|
-|music-player|music player by pyqt5 and Qt designer|
+|[music-player](https://github.com/nstnhfd/music-player.git)|music player by pyqt5 and Qt designer|
 |password-generator| pyqt5 and Qt designer|
 |shamsi-calender|pyqt5 and Qt designer|
 
